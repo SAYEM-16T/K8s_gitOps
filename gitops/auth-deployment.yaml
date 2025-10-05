@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: auth-service
-        image: sayemiit/auth-service:latest
+        image: sayemiit/auth-service:sha-4a761f9
         ports:
         - containerPort: 8080
         env:
