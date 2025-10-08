@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: sayemiit/frontend:sha-4a761f9
+        image: sayemiit/frontend:sha-200fc43
         ports:
         - containerPort: 80
